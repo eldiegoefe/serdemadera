@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Diego Fainstein'
 SITENAME = u'Ser de Madera'
 SITESUBTITLE = u'Diario de un aprendiz de ebanista'
-SITEURL = 'https://serdemadera.github.io'
+SITEURL = 'https://eldiegoefe.github.io/serdemadera'
 TIMEZONE = 'America/Argentina/Buenos_Aires'
 DEFAULT_LANG = u'es'
 # DEFAULT_DATE_FORMAT = '%a %d %B %Y'
