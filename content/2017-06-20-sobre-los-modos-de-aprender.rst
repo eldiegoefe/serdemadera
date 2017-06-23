@@ -5,7 +5,6 @@
 :author: Diego Fainstein
 :excerpt: Sobre los modos de aprender
 :disqus_identifier: sobre los modos de aprender 
-:status: draft
 
 Sabemos que no hay un solo modo de aprender, que sea eficaz y funcione siempre y
 para todos. Cada uno de nosotros tiene una configuración mental y emocional que
@@ -34,8 +33,7 @@ de estudio de 4 u 8 horas) sale entre ARS 4500 y 12000 (USD 280 y 750). Las
 clases pueden ser grupales o individuales, con contenidos y fecha
 predeterminados o a coordinar, etc. El costo de un curso de este tipo no difiere
 mucho de los que pueden tomarse, por ejemplo, en España (ver listado en
-`Comercial Pazos`_, donde un curso de 5 días, 8 o 9 horas por día, con
-profesores "top" sale entre 600 y 750 euros), aunque el ingreso medio de un
+`Comercial Pazos`_, donde un curso de 5 días, 8 o 9 horas por día, sale entre 600 y 750 euros), aunque el ingreso medio de un
 trabajador europeo es más alto, y por ende, estos precios son relativamente más
 accesibles allá. En mi caso le tengo que sumar la disponibilidad para ausentarme
 de mi trabajo durante este tiempo, el costo del viaje y la estadía, con lo cual
