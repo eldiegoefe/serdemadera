@@ -6,6 +6,7 @@
 :author: Diego Fainstein
 :excerpt: Garlopas y cepilladoras
 :disqus_identifier: garlopas y cepilladoras
+:status: draft
 
 En Argentina hay una amplia oferta de garlopas y cepilladoras de banco de marca
 Gamma, Kommberg, KLD, Dowen Pagio... Parecen incluso clones con marcas distintas

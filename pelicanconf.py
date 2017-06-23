@@ -105,7 +105,7 @@ EMAIL_FIELD_PLACEHOLDER = u'¿dirección de e-mail?'
 SUBSCRIBE_BUTTON_TITLE = u'Suscribirme'
 # MAILCHIMP_FORM_ACTION = u'Esto es del mailchimp'
 
-LANDING_PAGE_ABOUT = ({'title': 'Diario de un aprendizaje dificil', 'details': '<p>A veces las pasiones nos encuentran y nos cambian, a pesar de lo duro que seamos. Me pasó con el oficio de construir en madera objetos útiles y hermosos.</p>'})
+LANDING_PAGE_ABOUT = ({'title': 'Diario de un aprendizaje dificil', 'details': '<p>A veces las pasiones nos encuentran y nos cambian, a pesar de nuestra dureza. Me pasa con el oficio de construir en madera objetos útiles y hermosos.</p>'})
 
 # PROJECTS = [{
 #     'name': 'Logpad + Duration',

@@ -6,6 +6,7 @@
 :author: Diego Fainstein
 :excerpt: Criterios de compra de herramientas
 :disqus_identifier: criterios de compra de herramientas
+:status: draft
 
 En los foros cuando los usuarios piden recomendaciones sobre fresadoras,
 distintos tipos de sierras, cepillos y otras herramientas, la recomendación

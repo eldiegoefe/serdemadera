@@ -6,6 +6,7 @@
 :author: Diego Fainstein
 :excerpt: El problema de afilar
 :disqus_identifier: el problema de afilar
+:status: draft
 
 No se en otros paises, pero el término "afilar", en Argentina, se puede entender
 como sinónimo de seducir, cortejar, (intentar) entablar una relación romántica.

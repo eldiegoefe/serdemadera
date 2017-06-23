@@ -8,6 +8,9 @@
 :disqus_identifier: apuntes
 :status: draft
 
+Para escribir sobre: Ser autodidacta. Asistir a cursos. Limitaciones geográficas. Qué
+leer. Qué ver.
+
 Problemas geográficos
 ---------------------
 
