@@ -1,6 +1,6 @@
 
 :title: Dimensionar y escuadrar madera
-:date: 2017-06-21 10:00
+:date: 2017-06-26 10:00
 :category: blog
 :tags: 
 :author: Diego Fainstein
@@ -10,9 +10,13 @@
 
 Una gran dificultad al comenzar a trabajar la madera proviene de la necesidad de
 asegurar que las piezas constructivas de cada proyecto sean cercanas a un
-rectángulo perfecto, es decir que sus seis lados estén perpendiculares o
+ortoedro (un paralelepípedo o hexaedro rectangular, más fácilmente identificado
+como un poliedro donde todos los ángulos son rectos... hm, las definiciones
+precisas parecen terminar en expresiones complejas, cuando intuitivamente es muy
+facil pensar en una caja perfectamente rectangular). Es dificil lograr que los
+seis lados de una tabla estén perpendiculares o
 paralelos entre sí, al menos dentro de un rango de tolerancia pequeño. Se pueden
-realizar ensambles con tablas y listones que no cumplan con este requisito, pero
+realizar ensambles con maderas que no cumplan con este requisito, pero
 los resultados son poco elegantes y el trabajo en sí, lejos de provocar éxtasis
 en el aprendiz, lo motivan al sufrimiento. Escuadrar es indispensable, ya sea
 con máquinas o con herramientas manuales.
@@ -21,7 +25,7 @@ Con herramientas eléctricas
 ---------------------------
 
 El procedimiento para escuadrar una pieza de madera con herramientas eléctricas
-tiene tres partes. Primero se debe aplanar una de las caras con una garlopa (en
+lo dividiría en tres partes. Primero se debe aplanar una de las caras con una garlopa (en
 inglés "`jointer`_", la wikipedia en castellano tiene un artículo sobre la
 `versión manual`_ unicamente). Esta máquina está compuesta de dos camas
 metálicas alargadas (las infeed y outfeed tables de la figura), muy planas y
@@ -62,8 +66,8 @@ con cuchillas y el otro después.
    :align: center
    :alt: funcionamiento interno de la regruesadora
 
-El tercer paso es cortar los cuatro lados restantes, lo cual se puede realizar
-con una sierra de banco o una sierra ingletadora, entre otras.
+El tercer paso es cortar los cuatro lados restantes, para lo cual se pueden
+utilizar distintas sierras.
 
 Estos son los pasos "estándar" pero hay modos alternativos. La posibilidad de
 cortar los bordes de distintos tipos de sierras depende del tamaño de las
@@ -75,13 +79,13 @@ adecuada puede servir de jointer).
 
 Hay varios problemas con estas herramientas eléctricas. En primer lugar su
 disponibilidad y costo. En Argentina hay muy pocas de las marcas que se
-encuentran en el hemisferio norte, y las disponibles se encuentra a precios muy
+encuentran en el hemisferio norte, y las disponibles se encuentran a precios muy
 altos (todo esto queda para el siguiente artículo). Estas máquinas también
 requieren de mucho espacio en el taller, y además su uso produce altos niveles
 de ruido y de aserrín.
 
 Esta serie de inconvenientes, y los resultados insatisfactorios de construir con
-tablas que se alejan algunos milímetros de las medidas deseadas, me llevó a
+tablas que se alejan de las medidas deseadas, me llevó a
 investigar en los **procesos manuales**, y en el renacido mundo de las
 **handtools** (el uso del inglés en este blog se debe a que la mayoría de las
 fuentes bibliográficas que cruzan por mis ojos están en ese idioma así que me
@@ -90,7 +94,7 @@ con toda esta maquinaria eléctrica? Después de todo, yo no estoy buscando
 instalar una carpintería comercial en la cual fabricar muebles en serie. Al
 abordar esta pregunta el camino de aprendizaje comenzó a desviarse, y el
 trayecto me acercó a otra filosofía de trabajo sobre la que continuaré
-comentando más adelante.
+comentando en el siguiente post.
 
 .. _jointer: https://en.wikipedia.org/wiki/Jointer
 .. _versión manual: https://es.wikipedia.org/wiki/Garlopa
