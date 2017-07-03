@@ -1,12 +1,11 @@
 
 :title: Dimensionar y escuadrar madera
-:date: 2017-06-26 10:00
+:date: 2017-07-03 10:00
 :category: blog
 :tags: 
 :author: Diego Fainstein
 :excerpt: Dimensionar y escuadrar madera
 :disqus_identifier: dimensionar y escuadrar madera
-:status: draft
 
 Una gran dificultad al comenzar a trabajar la madera proviene de la necesidad de
 asegurar que las piezas constructivas de cada proyecto sean cercanas a un
@@ -14,24 +13,25 @@ ortoedro (un paralelepípedo o hexaedro rectangular, más fácilmente identifica
 como un poliedro donde todos los ángulos son rectos... hm, las definiciones
 precisas parecen terminar en expresiones complejas, cuando intuitivamente es muy
 facil pensar en una caja perfectamente rectangular). Es dificil lograr que los
-seis lados de una tabla estén perpendiculares o
-paralelos entre sí, al menos dentro de un rango de tolerancia pequeño. Se pueden
-realizar ensambles con maderas que no cumplan con este requisito, pero
-los resultados son poco elegantes y el trabajo en sí, lejos de provocar éxtasis
-en el aprendiz, lo motivan al sufrimiento. Escuadrar es indispensable, ya sea
-con máquinas o con herramientas manuales.
+lados de una tabla estén perpendiculares entre sí (o paralelos, si tomamos de a
+pares de planos correspondientes, nuevamente, qué dificil es describir en
+palabras ciertas cuestiones básicas), al menos dentro de un rango de tolerancia
+pequeño. Se pueden realizar ensambles con maderas que no cumplan con este
+requisito, pero los resultados son poco elegantes y el trabajo en sí, lejos de
+provocar éxtasis en el aprendiz, lo motivan al sufrimiento. Escuadrar es
+indispensable, ya sea con máquinas o con herramientas manuales.
 
 Con herramientas eléctricas
 ---------------------------
 
 El procedimiento para escuadrar una pieza de madera con herramientas eléctricas
-lo dividiría en tres partes. Primero se debe aplanar una de las caras con una garlopa (en
-inglés "`jointer`_", la wikipedia en castellano tiene un artículo sobre la
-`versión manual`_ unicamente). Esta máquina está compuesta de dos camas
+lo dividiría en tres partes. Primero se debe aplanar una de las caras con una
+garlopa (en inglés "`jointer`_", la wikipedia en castellano tiene un artículo
+sobre la `versión manual`_ unicamente). Esta máquina está compuesta de dos camas
 metálicas alargadas (las infeed y outfeed tables de la figura), muy planas y
 paralelas entre sí, separadas apenas unos milímetros, entre las cuales se ubica
 un eje giratorio sobre el que están montadas las cuchillas (que suelen ser dos o
-tres).
+tres). Las imágenes de este artículo son de la wikipedia.
 
 
 .. image:: https://c1.staticflickr.com/5/4257/34634111564_6d41ed98a9_b.jpg
@@ -72,10 +72,9 @@ utilizar distintas sierras.
 Estos son los pasos "estándar" pero hay modos alternativos. La posibilidad de
 cortar los bordes de distintos tipos de sierras depende del tamaño de las
 piezas, en algunos se podrán realizar todos los cortes en una sierra de banco, o
-en una ingletadora, o sólo algunos en unas y otras. Es habitual el uso de
-plantillas (en inglés "jigs") que se pueden adaptar para permitir o facilitar
-los cortes en distintas máquinas (por ejemplo una fresadora con una plantilla
-adecuada puede servir de jointer).
+en una ingletadora. Es habitual el uso de plantillas (en inglés "jigs") que se
+pueden adaptar para permitir o facilitar los cortes en distintas máquinas (por
+ejemplo una fresadora con una plantilla adecuada puede servir de jointer).
 
 Hay varios problemas con estas herramientas eléctricas. En primer lugar su
 disponibilidad y costo. En Argentina hay muy pocas de las marcas que se
@@ -85,16 +84,15 @@ requieren de mucho espacio en el taller, y además su uso produce altos niveles
 de ruido y de aserrín.
 
 Esta serie de inconvenientes, y los resultados insatisfactorios de construir con
-tablas que se alejan de las medidas deseadas, me llevó a
-investigar en los **procesos manuales**, y en el renacido mundo de las
-**handtools** (el uso del inglés en este blog se debe a que la mayoría de las
-fuentes bibliográficas que cruzan por mis ojos están en ese idioma así que me
-resulta familiar usarlas). ¿Cómo hacían antes los carpinteros que no contaban
-con toda esta maquinaria eléctrica? Después de todo, yo no estoy buscando
-instalar una carpintería comercial en la cual fabricar muebles en serie. Al
-abordar esta pregunta el camino de aprendizaje comenzó a desviarse, y el
-trayecto me acercó a otra filosofía de trabajo sobre la que continuaré
-comentando en el siguiente post.
+tablas que se alejan de las medidas deseadas, me llevó a investigar en los
+**procesos manuales**, y en el renacido mundo de las **handtools** (el uso del
+inglés en este blog se debe a que la mayoría de las fuentes bibliográficas que
+cruzan por mis ojos están en ese idioma así que me resulta familiar usarlas).
+¿Cómo hacían antes los carpinteros que no contaban con toda esta maquinaria
+eléctrica? Después de todo, yo no estoy buscando instalar una carpintería
+comercial en la cual fabricar muebles en serie. Al abordar esta pregunta el
+camino de aprendizaje comenzó a desviarse, y el trayecto me acercó a otra
+filosofía de trabajo sobre la que continuaré comentando en el siguiente post.
 
 .. _jointer: https://en.wikipedia.org/wiki/Jointer
 .. _versión manual: https://es.wikipedia.org/wiki/Garlopa
