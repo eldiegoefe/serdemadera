@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ser de Madera - Diego Fainstein</title><link href="https://eldiegoefe.github.io/serdemadera/" rel="alternate"></link><link href="https://eldiegoefe.github.io/serdemadera/feeds/diego-fainstein.atom.xml" rel="self"></link><id>https://eldiegoefe.github.io/serdemadera/</id><updated>2017-07-01T10:00:00-03:00</updated><entry><title>Criterios de compra de herramientas</title><link href="https://eldiegoefe.github.io/serdemadera/criterios-de-compra-de-herramientas.html" rel="alternate"></link><published>2017-07-01T10:00:00-03:00</published><updated>2017-07-01T10:00:00-03:00</updated><author><name>Diego Fainstein</name></author><id>tag:eldiegoefe.github.io,2017-07-01:/serdemadera/criterios-de-compra-de-herramientas.html</id><summary type="html">&lt;p&gt;En los foros, cuando los usuarios piden recomendaciones sobre fresadoras,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ser de Madera - Diego Fainstein</title><link href="https://eldiegoefe.github.io/serdemadera/" rel="alternate"></link><link href="https://eldiegoefe.github.io/serdemadera/feeds/diego-fainstein.atom.xml" rel="self"></link><id>https://eldiegoefe.github.io/serdemadera/</id><updated>2017-07-03T10:00:00-03:00</updated><entry><title>Dimensionar y escuadrar madera</title><link href="https://eldiegoefe.github.io/serdemadera/dimensionar-y-escuadrar-madera.html" rel="alternate"></link><published>2017-07-03T10:00:00-03:00</published><updated>2017-07-03T10:00:00-03:00</updated><author><name>Diego Fainstein</name></author><id>tag:eldiegoefe.github.io,2017-07-03:/serdemadera/dimensionar-y-escuadrar-madera.html</id><summary type="html">&lt;p&gt;Una gran dificultad al comenzar a trabajar la madera proviene de la necesidad de
+asegurar que las piezas constructivas de cada proyecto sean cercanas a un
+ortoedro (un paralelepípedo o hexaedro rectangular, más fácilmente identificado
+como un poliedro donde todos los ángulos son rectos&amp;#8230; hm, las definiciones
+precisas parecen terminar …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Una gran dificultad al comenzar a trabajar la madera proviene de la necesidad de
+asegurar que las piezas constructivas de cada proyecto sean cercanas a un
+ortoedro (un paralelepípedo o hexaedro rectangular, más fácilmente identificado
+como un poliedro donde todos los ángulos son rectos&amp;#8230; hm, las definiciones
+precisas parecen terminar en expresiones complejas, cuando intuitivamente es muy
+facil pensar en una caja perfectamente rectangular). Es dificil lograr que los
+lados de una tabla estén perpendiculares entre sí (o paralelos, si tomamos de a
+pares de planos correspondientes, nuevamente, qué dificil es describir en
+palabras ciertas cuestiones básicas), al menos dentro de un rango de tolerancia
+pequeño. Se pueden realizar ensambles con maderas que no cumplan con este
+requisito, pero los resultados son poco elegantes y el trabajo en sí, lejos de
+provocar éxtasis en el aprendiz, lo motivan al sufrimiento. Escuadrar es
+indispensable, ya sea con máquinas o con herramientas&amp;nbsp;manuales.&lt;/p&gt;
+&lt;div class="section" id="con-herramientas-electricas"&gt;
+&lt;h2&gt;Con herramientas&amp;nbsp;eléctricas&lt;/h2&gt;
+&lt;p&gt;El procedimiento para escuadrar una pieza de madera con herramientas eléctricas
+lo dividiría en tres partes. Primero se debe aplanar una de las caras con una
+garlopa (en inglés &amp;#8220;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Jointer"&gt;jointer&lt;/a&gt;&amp;#8220;, la wikipedia en castellano tiene un artículo
+sobre la &lt;a class="reference external" href="https://es.wikipedia.org/wiki/Garlopa"&gt;versión manual&lt;/a&gt; unicamente). Esta máquina está compuesta de dos camas
+metálicas alargadas (las infeed y outfeed tables de la figura), muy planas y
+paralelas entre sí, separadas apenas unos milímetros, entre las cuales se ubica
+un eje giratorio sobre el que están montadas las cuchillas (que suelen ser dos o
+tres). Las imágenes de este artículo son de la&amp;nbsp;wikipedia.&lt;/p&gt;
+&lt;a class="reference external image-reference" href="https://www.flickr.com/photos/129959440&amp;#64;N06/34634111564/sizes/o/"&gt;&lt;img alt="funcionamiento interno de la garlopa" class="align-center" src="https://c1.staticflickr.com/5/4257/34634111564_6d41ed98a9_b.jpg" style="width: 100.0%;" /&gt;&lt;/a&gt;
+&lt;p&gt;La madera se apoya sobre la cama más baja (infeed) y es empujada por el usuario,
+que la hace atravesar la parte donde las cuchillas hacen su trabaj́o quitándole
+espesor. Luego de atravesar este eje giratorio, la parte frontal de la madera
+pasa a apoyarse sobre la cama que está apenas más alta que la primera (outfeed
+table). La diferencia de alturas entre ambas corresponde al espesor de madera
+cepillada por las cuchillas. El usuario continúa empujando hasta que toda la
+longitud de la tabla termina de atravesar el eje central, completándose el
+trabajo de aplanar la parte inferior de la&amp;nbsp;madera.&lt;/p&gt;
+&lt;p&gt;Luego esta cara plana se utiliza como referencia para &amp;#8220;regruesar&amp;#8221;, proceso que
+consiste en remover material de la superficie opuesta en pasadas sucesivas por
+la regruesadora o cepilladora de banco (en inglés &amp;#8220;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Thickness_planer"&gt;thickness planer&lt;/a&gt;&amp;#8220;) hasta
+llevar el espesor de la tabla al valor deseado. La regruesadora cuenta con una
+cama plana (por donde se desliza la cara de la madera que se aplanó en la
+garlopa), un eje con cuchillas que realizan el corte en la cara opuesta y dos
+rodillos que empujan la madera hacia la cama plana, uno ubicado antes del eje
+con cuchillas y el otro&amp;nbsp;después.&lt;/p&gt;
+&lt;img alt="funcionamiento interno de la regruesadora" class="align-center" src="https://c1.staticflickr.com/5/4278/34665361433_cddb094beb_o.gif" style="width: 100.0%;" /&gt;
+&lt;p&gt;El tercer paso es cortar los cuatro lados restantes, para lo cual se pueden
+utilizar distintas&amp;nbsp;sierras.&lt;/p&gt;
+&lt;p&gt;Estos son los pasos &amp;#8220;estándar&amp;#8221; pero hay modos alternativos. La posibilidad de
+cortar los bordes de distintos tipos de sierras depende del tamaño de las
+piezas, en algunos se podrán realizar todos los cortes en una sierra de banco, o
+en una ingletadora. Es habitual el uso de plantillas (en inglés &amp;#8220;jigs&amp;#8221;) que se
+pueden adaptar para permitir o facilitar los cortes en distintas máquinas (por
+ejemplo una fresadora con una plantilla adecuada puede servir de&amp;nbsp;jointer).&lt;/p&gt;
+&lt;p&gt;Hay varios problemas con estas herramientas eléctricas. En primer lugar su
+disponibilidad y costo. En Argentina hay muy pocas de las marcas que se
+encuentran en el hemisferio norte, y las disponibles se encuentran a precios muy
+altos (todo esto queda para el siguiente artículo). Estas máquinas también
+requieren de mucho espacio en el taller, y además su uso produce altos niveles
+de ruido y de&amp;nbsp;aserrín.&lt;/p&gt;
+&lt;p&gt;Esta serie de inconvenientes, y los resultados insatisfactorios de construir con
+tablas que se alejan de las medidas deseadas, me llevó a investigar en los
+&lt;strong&gt;procesos manuales&lt;/strong&gt;, y en el renacido mundo de las &lt;strong&gt;handtools&lt;/strong&gt; (el uso del
+inglés en este blog se debe a que la mayoría de las fuentes bibliográficas que
+cruzan por mis ojos están en ese idioma así que me resulta familiar usarlas).
+¿Cómo hacían antes los carpinteros que no contaban con toda esta maquinaria
+eléctrica? Después de todo, yo no estoy buscando instalar una carpintería
+comercial en la cual fabricar muebles en serie. Al abordar esta pregunta el
+camino de aprendizaje comenzó a desviarse, y el trayecto me acercó a otra
+filosofía de trabajo sobre la que continuaré comentando en el siguiente&amp;nbsp;post.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>Criterios de compra de herramientas</title><link href="https://eldiegoefe.github.io/serdemadera/criterios-de-compra-de-herramientas.html" rel="alternate"></link><published>2017-07-01T10:00:00-03:00</published><updated>2017-07-01T10:00:00-03:00</updated><author><name>Diego Fainstein</name></author><id>tag:eldiegoefe.github.io,2017-07-01:/serdemadera/criterios-de-compra-de-herramientas.html</id><summary type="html">&lt;p&gt;En los foros, cuando los usuarios piden recomendaciones sobre fresadoras,
 distintos tipos de sierras, cepillos y otras herramientas, la recomendación
 suele ser la de comprar buenas marcas que aseguren calidad, a pesar del precio.
 En cuanto a &amp;#8220;power tools&amp;#8221; en Argentina las marcas confiables se circunscribe a
