@@ -94,13 +94,27 @@ para dividir tablas de 1" al medio, lo censulté a uno de ellos y me respondió
 que "*la máquina sirve perfectamente bien para eso*". Obviamente con el
 testimonio del vendedor no alcanza y la única palabra final aceptable sería
 experimentar y pedir una demostración del corte, lástima que será dificil
-encontrar un comercio o fábrica donde presenciar el experimento. De todos modos
-encontré algunos videos demostrativos en la Biblioteca de Alejandría Digital
-(digamos YouTube). Otra fábrica nacional aparte de las que consulté, pero que
-ofrece máquinas de mayor porte es `WOMA`_ (también tienen `página en facebook`_
-donde publican con frecuencia su lista de precios). Su modelo de sin fin X-600L
-tiene volante de 600 mm y cuesta, con motor de 3 HP, ARS 76.000 y por ende se me
-escapa un poco del presupuesto admisible para el uso personal.
+encontrar un comercio o fábrica donde presenciar el experimento. En la
+Biblioteca de Alejandría Digital (digamos YouTube) se pueden encontrar algunos
+videos sobre el tema.
+
+Otro fabricante me contactó por la pregunta que dejé en el foro. Rubén
+Rodriguez, de Pilar (Buenos Aires) ofrece sus máquinas Puma, con motor de 1 HP,
+armadas sobre caballete de hierro angulo (vean datos y foto más adelante).
+Cuando le pregunté sobre la posibilidad de dividir tablas de 1" x 6" al medio me
+explicó lo siguiente: "*lo que queres hacer se llama abrir tablas. Es un trabajo
+un poco dificil de hacer para una persona que no trabajó nunca en una sin fin,
+pero con un poco de habilidad se hace, 15 cm se puede con esta maquinita, pero*
+*ya te digo tenés que conocer la máquina y tener con ella cierta habilidad. La
+hoja debe estar perfectamente afilada y trabada y el taco en perfectas
+condiciones, avanzando lentamente, dándole tiempo de cortar se hace*."
+
+Otra fábrica nacional aparte de las que consulté, pero que ofrece máquinas de
+mayor porte es `WOMA`_ (también tienen `página en facebook`_ donde publican con
+frecuencia su lista de precios). Su modelo de sin fin X-600L tiene volante de
+600 mm y cuesta, con motor de 3 HP, ARS 76.000 y por ende se me escapa un poco
+del presupuesto admisible para el uso personal. Son máquinas de uso netamente
+industrial, no es para aficionados como yo.
 
 Por el momento queda la idea en espera. Y me conformo con ver el video de
 Gregorio Marino, un carpintero argentino que descubrí hace muy poco en YouTube
@@ -117,7 +131,7 @@ gracias desde aca a don Gregorio.
 
 Saludos y continuaremos soñando con máquinas y maderas en próximas entregas.
 
----
+-----
 
 **Skil 3385**:
 
@@ -132,7 +146,7 @@ Saludos y continuaremos soñando con máquinas y maderas en próximas entregas.
    :align: center
    :alt: skil
 
----
+-----
 
 **Einhell Te-sb 250 U**:
 
@@ -181,6 +195,20 @@ Saludos y continuaremos soñando con máquinas y maderas en próximas entregas.
    :width: 100%
    :align: center
    :alt: incer
+
+-----
+
+**Puma**:
+
+- Diámetro del volante 350 mm (14").
+- ARS 7000 (sin motor ni base armada), ARS 11000 (con una base y un motor de 1
+  HP servicio continuo). Todo nacional.
+
+.. figure:: https://c1.staticflickr.com/5/4286/35695078172_393b2b42e4_o.jpg
+   :scale: 50%
+   :width: 100%
+   :align: center
+   :alt: puma
 
 -----
 
