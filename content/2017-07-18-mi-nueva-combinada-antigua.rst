@@ -17,12 +17,12 @@ de `Hecho x nosotros mismos`_. Les muestro entonces las opciones...
 
 .. _Hecho x nosotros mismos: http://www.hechoxnosotrosmismos.net/foro
 
-Gianola I
----------
+Gianolla I
+----------
 
 Empiezo por la que tienen en `Cueliche Máquinas`_, que como pueden ver en su
 página web tienen muchas máquinas fascinantes. Me ofrecieron una combinada de
-marca Gianola, motor 3 HP, 2 cuchillas, ARS 27.800. Es propiedad de un cliente
+marca Gianolla, motor 3 HP, 2 cuchillas, ARS 27.800. Es propiedad de un cliente
 que este local tiene en consignación. Por este motivo, no me dan garantía. Tengo
 que sumarle el envío: la traería el vendedor desde Buenos Aires y me cobraría
 ARS 3.000. No me confirmó si este precio incluía la prueba en mi casa. Debajo
@@ -36,12 +36,23 @@ celular vertical!).
              :height: 315
              :width: 560
 
+En un sitio de venta online encontré foto de una Gianolla ubicada en Mendoza, en
+estado celestial y prístino, pero el vendedor no respondió mi mensaje. Véanla
+aca (en todas las fotos pueden hacer click para verlas más grandes):
+
+.. figure:: https://c1.staticflickr.com/5/4308/35861389672_86625c9909_o.jpg
+   :scale: 100%
+   :width: 50%
+   :align: center
+   :alt: gianolla
+   :target: https://c1.staticflickr.com/5/4308/35861389672_86625c9909_o.jpg
+
 Combinada Equis
 ---------------
 
-También me ofrecieron otra combinada (la de la foto de abajo) por la cual sí dan
-garantía porque la refaccionaron ellos, pero piden 40.000. No pedí
-especificaciones de esta última porque se me va de presupuesto.
+En el mismo local que comenté antes me ofrecieron otra combinada (la de la foto
+de abajo) por la cual sí dan garantía porque la refaccionaron ellos, pero piden
+40.000. No pedí especificaciones de esta última porque se me va de presupuesto.
 
 .. figure:: https://c1.staticflickr.com/5/4294/35112502703_208dee37d1_o.jpg
    :scale: 100%
@@ -53,15 +64,21 @@ especificaciones de esta última porque se me va de presupuesto.
 Bagual I
 --------
 
-A apenas 250 km encontré una combinada Bagual (después me enteré que Bagual es
-el modelo, y la marca vendría a ser Maquinarias Ungar, que también fabricaba
-taladros de banco modelo Chúcaro, por dar un ejemplo de viejos buenos tiempos
-con industria nacional y nombres simpáticos). Siempre hablamos de garlopa y
-cepilladora de 300 mm, con barreno y sierra circular. Tiene motor monofásico,
-pesa unos 140 kg, tamaño de 1.58 x 1.28 x 1.00 (todo en metros), ARS 25.000.
-Pesa poco comparado con las MBrezzo y Delbre, lo cual me sorprende, pero debe
-ser que ésta es de hierro ángulo y las ensambladas de origen chino son de
-fundición de hierro. Hagan click sobre las imágenes para verlas más grandes.
+A apenas 250 km encontré una combinada Bagual. Es un lío saber cuál es la marca,
+y cuál es el modelo, porque son muy antiguas y no hay mucha documentación
+online. Pensé, por la chapita que se ve en otra foto más abajo, que Bagual era
+el modelo, y la marca sería Ungar. Pero después me enteré que Maquinarias Ungar
+era una distribuidora y la marca era realmente Bagual. Mientras buscaba encontré
+también menciones a un taladro de banco Chúcaro (de los viejos buenos tiempos
+con industria nacional y nombres simpáticos). Me parece raro que haya habido una
+marca Bagual y otra Chúcaro, pero quien sabe... (si saben y me lo quieren contar
+déjenme un mensaje).
+
+En cuanto a la máquina de las fotos, tiene garlopa y cepilladora de 300 mm, con
+barreno y sierra circular, motor monofásico, pesa unos 140 kg, tamaño de 1.58 x
+1.28 x 1.00 (todo en metros), ARS 25.000. Pesa poco comparado con las MBrezzo y
+Delbre, lo cual me sorprende, pero debe ser que ésta es de hierro ángulo y las
+ensambladas de origen chino son de fundición de hierro. 
 
 .. figure:: https://c1.staticflickr.com/5/4324/35158433213_73df14f803_o.jpg
    :scale: 100%
@@ -168,12 +185,12 @@ Hasta ahora es la única máquina plenamente descartada.
 Bagual II
 ---------
 
-Luego encontré otra de Maquinarias Ungar, modelo Bagual, muñeco redondo (¿de qué
-otro perfil vendrá, acaso cuadrado?), con 2 cuchillas y motor trifásico, precio
-de ARS 28.500. Consulté al vendedor, muy atento, y me la ofreció sin motor en
-ARS 26.000 (un motor monofásico de 2 HP sale unos ARS 6.000, creo), puesta en el
-depósito de un transporte en el barrio de Barracas (uno que hace viajes a
-Paraná). Acá se las presento:
+Luego encontré otra Bagual, muñeco redondo (¿de qué otro perfil vendrá, acaso
+cuadrado?), con 2 cuchillas y motor trifásico, precio de ARS 28.500. Consulté al
+vendedor, muy atento, y me la ofreció sin motor en ARS 26.000 (un motor
+monofásico de 2 HP sale unos ARS 6.000, creo), puesta en el depósito de un
+transporte en el barrio de Barracas (uno que hace viajes a Paraná). Acá se las
+presento:
 
 .. figure:: https://c1.staticflickr.com/5/4314/35799950552_1df0d6b1c0_o.jpg
    :scale: 100%
@@ -214,8 +231,8 @@ cepillar.
    :alt: sf-4
    :target: https://c1.staticflickr.com/5/4304/35581635230_6dc69d25a7_o.jpg
  
-Gianola II
-----------
+Gianolla II
+-----------
 
 También apareció esta otra, una Gianola (como la primera) monofásica, ARS
 28.000. 
@@ -286,16 +303,19 @@ que vieron más arriba. Su opinión fue que los precios son baratos, y su
 recomendación: optar por alguna de las usadas antiguas y si fuese necesario
 (aunque probablemente no) enviar a reparar las fallas y defectos con un tornero.
 Me dijo que se pueden mandar a rectificar las camas, reparar la caja donde están
-los mecanismos de alimentación de la cepilladora, etc. Ellos sólo reparan las
-máquinas que van a vender, así que al darme este consejo no pretendía obtener
-algún rédito futuro. Le pregunté cuánto podían salir algunos arreglos, como para
-tener idea de los riesgos, y los costos me parecieron accesibles.
+los mecanismos de alimentación de la cepilladora, etc. Hizo hincapié en que
+estas antiguas máquinas están construidas en mejores materiales y me comentó
+sobre los problemas que tuvieron algunos clientes con máquinas chinas. Ellos
+sólo reparan las máquinas que van a vender, así que al darme este consejo no
+pretendía obtener algún rédito futuro. Le pregunté cuánto podían salir algunos
+arreglos, como para tener idea de los riesgos, y los costos me parecieron
+accesibles.
 
 .. _AFIPAR: http://www.afiparsh.com/
 .. _hechoxnosotrosmismos: http://www.hechoxnosotrosmismos.net/foro/
 
-Lo pensé y decidí arriesgarme con una de la *Bagual I*. Hice la compra y me
-llegaron los datos del vendedor. Hablé con él, y me mandó un video de la máquina
+Lo pensé y decidí arriesgarme con la *Bagual I*. Hice la compra y me llegaron
+los datos del vendedor. Hablé con él, y me mandó un video de la máquina
 funcionando en el modo de cepilladora, que es el que más me interesa.
 
 .. youtube:: 7BbJVjmm1Ls
@@ -304,7 +324,7 @@ funcionando en el modo de cepilladora, que es el que más me interesa.
 
 Después de ver el video (en donde no está del todo claro que funcione bien el
 alimentador automático) y de charlar con el vendedor yo ya estaba seguro de no
-querer cancelar la compra, algo que aún podía hacer. Pero se presentó un
+querer cancelar la compra, algo que aún puedo hacer. Pero se presentó un
 problema, porque el vendedor es el socio del dueño de la máquina y éste último
 es muy desconfiado y no quiere enviarla antes de cobrar (quizás desconociendo
 los mecanismos de protección al vendedor de Mercado Libre, o justamente, debido
