@@ -7,6 +7,12 @@
 :excerpt: Combinadas vs mis prejuicios
 :disqus_identifier: Combinadas vs mis prejuicios
 
+                    
+(**Observación**: *con posterioridad a su publicación original reedité este
+artículo para agregar un montón de información que me dieron en los foros, traté
+de darles crédito por sus comentarios pero sin vulnerar su privacidad, por eso
+sólo pongo la inicial de los apellidos*)
+
 De haber leido recomendaciones en foros inciertos se me metió en la cabeza que
 las combinadas de carpintería son una peste. Si se llega a romper te quedás sin
 poder hacer nada, y además la calidad de las mismas deja mucho que desear. Con
@@ -28,13 +34,17 @@ Ridgid, Craftsman... Las que sí se consiguen en el mercado argentino son: `Dowe
 Pagio CB330P`_ (1800 W = 2.4 HP, 13" = 330mm, ARS 14000) y `Gamma`_ (1500 W = 2
 HP, 13" = 330 mm, 2 cuchillas, 36 kg, ARS 9000). Solía haber Kommberg KB-CB13
 (1500 W = 2 HP, 13" = 330 mm, 2 cuchillas, alrededor de ARS 9000) pero no la
-encontré disponible (creo haber leido que es más sólida que la Gamma, y me suena
-que es idéntica a la Dowen, pero no lo puedo asegurar). Pueden ver un video
-sobre la Kommberg hecho por José Torres (del canal `Customs Handmade`_) a
-continuación. Las experiencias con estas máquinitas importadas son dispares,
-aunque se encuentran bastantes comentarios sobre la inexistencia de repuestos de
-las Gamma y sobre la fragilidad de algunos de sus componentes (como las
-correas). La ventaja que tienen es su relativa portabilidad.
+encontré disponible (creo haber leido que es muy parecida pero más sólida que la
+Gamma, aunque tiene la misma potencia). Pueden ver un video sobre la Kommberg
+hecho por **José Torres** (del canal `Customs Handmade`_) a continuación. En el
+foro *hechoxnosotrosmismos* el usuario **alfonsomartin** comentaba que tenía
+entendido que las cuchillas de estas máquinas tienen menor espesor que las
+convencionales y puede no haber disponibilidad suficiente en el mercado, así que
+antes de comprarlas habría que asegurarse de que estas cuchillas se consiguen. Las
+experiencias con estas máquinitas importadas son dispares, aunque se encuentran
+bastantes comentarios sobre la inexistencia de repuestos de las Gamma y sobre la
+fragilidad de algunos de sus componentes (como las correas). La ventaja que
+tienen es su relativa portabilidad.
 
 .. youtube:: mjVwCas1D7A
             :height: 315
@@ -46,10 +56,10 @@ correas). La ventaja que tienen es su relativa portabilidad.
 .. _Dowen Pagio CB330P: http://www.dowenpagioweb.com.ar/producto/cepilladora-de-banco-portatil-330-mm-13/
 
 Hay usuarios muy habilidosos que montan cepillos portátiles como si fueran
-garlopas de banco, pero la verdad es que mis intentos fueron infructuosos.
-Si se animan, y la fuerza está con ustedes, se pueden inspirar en la genia de
-Cristiana Felgueiras que en su canal `Get Hands Dirty`_ tiene un video donde plasma
-`la idea de FreddyS en LumberJocks`_. Les dejo colgado el video.
+garlopas de banco, pero la verdad es que mis intentos fueron infructuosos. Si se
+animan, y la fuerza está con ustedes, se pueden inspirar en la genia de
+**Cristiana Felgueiras** que en su canal `Get Hands Dirty`_ tiene un video donde
+plasma `la idea de FreddyS en LumberJocks`_. Les dejo colgado el video.
 
 .. youtube:: EEkWZofao00
             :height: 315
@@ -63,18 +73,21 @@ Cepilladoras industriales
 
 Aparte del segmento hobbysta hay máquinas industriales nuevas, de producción
 nacional (y apariencia soviética) como `WOMA`_ y `Maiba`_. Una cepilladora WOMA
-300 "liviana" (trifásica, 3 HP, 30 cm, 3 cuchillas, 180 kg) sale ARS 39000 +
-10.5% IVA. También hay otras industriales de apariencia más moderna pero no se
-si son nacionales o importadas (por ejemplo las Taurus). Finalmente, están las
-Hammer, importadas de Austria (del Felder Group, con altísima calidad e idem
-precios).
+300 "liviana" (trifásica, 3 HP, 30 cm, 3 cuchillas, 180 kg) sale ARS 42.000
+(WOMA será buena marca, pero la atención por correo no está tan buena, vean en
+la respuesta a una consulta que les hice en mi próximo post).
+
+También hay otras industriales de apariencia más moderna pero no se si son
+nacionales o importadas (por ejemplo las Taurus -según **Ignacio P** son
+importadas de China-). Finalmente, están las Hammer, importadas de Austria (del
+Felder Group, con altísima calidad e idem precios).
 
 Combinadas
 ----------
 
-Mientras averiguaba sobre sierras sin fin (vean en este blog el artículo
-anterior) visité páginas de fabricantes que también ofrecen combinadas. Me
-llamaron la atención, me pues a buscar videos y más información, y también me
+Mientras averiguaba sobre sierras sin fin (vean en el artículo anterior: `Sierra
+sin fin`_) visité páginas de fabricantes que también ofrecen combinadas. Me
+llamaron la atención, me puse a buscar videos y más información, y también me
 sumergí en los comentarios del grupo `Carpinteros Argentinos`_. Este grupo tiene
 la ventaja de contar con la participación activa de una gran cantidad de
 profesionales y aficionados que comparten información muy util para conocer el
@@ -86,20 +99,28 @@ el prejuicio de que son una porquería y de que no me servirían. Quizás en USA
 en Europa, donde hay más alternativas, esto sea cierto, pero en nuestro país
 parece una opción más que razonable, respecto de las cepilladoras portátiles.
 
+.. _Sierra sin fin: |filename|/2017-07-05-sierra-sin-fin.rst
+
 Combinadas industriales
 =======================
 
 Primero menciono que Woma y Maiba ofrecen combinadas industriales, pero por el
-precio no resultan viables para un aficionado (la "cepilopa" Woma W-300 cuesta
-ARS 54.000 + 10.5% IVA). Un consejo habitual es buscar una combinada usada
-(antigua, pesada, robusta, más barata), pero en mi caso tampoco es una
+precio no resultan viables para un aficionado (la "cepilopa" Woma W-300TH cuesta
+ARS 62.000 sin motor ni accesorios). Un consejo habitual es buscar una combinada
+usada (antigua, pesada, robusta, más barata), pero en mi caso tampoco es una
 posibilidad porque suelen estar lejos de Paraná y es un lío ir a verlas para
 evaluar su estado (justo llamé a un local aca en esta ciudad donde están
 restaurando una Maiba industrial, pero el señor que me atendió con gran
-amabilidad estima que costará unos ARS 75.000 cuando termine de repararla). Acá
-pueden ver la presentación de Gregorio Marino de su combinada WOMA (¡muy bien
-por el énfasis en la seguridad! Al usar la garlopa, muchos recomendarían usar
-push-sticks, es decir palos de empuje):
+amabilidad estima que costará unos ARS 75.000 cuando termine de repararla).
+
+**Agregado posterior**: cambié de idea y tomé este camino, lo cuento en el post
+siguiente: `Mi nueva combinada antigua`_.
+
+.. _Mi nueva combinada antigua: |filename|/2017-07-18-mi-nueva-combinada-antigua.rst
+
+Acá pueden ver la presentación que hace **Gregorio Marino** de su combinada WOMA
+(¡muy bien por el énfasis en la seguridad! Al usar la garlopa, muchos
+recomendarían utilizar push-sticks, es decir palos de empuje):
 
 .. youtube:: HZ9xuABVaBY
             :height: 315
@@ -113,59 +134,42 @@ Las únicas opciones viables para mi, y en el marco del mercado nacional, son el
 universo de máquinas nuevas de origen chino (al consultar por teléfono al
 reparador de máquinas industriales del párrafo anterior, me dijo que para él son
 como *maquinitas de coser*, jaja). Algunas son ensambladas por fabricantes
-locales como MBrezzo y Delbre, que las adecuan a su marca pintándolas, les
-asignan un modelo en su linea de herramientas y garantizan la existencia de
-repuestos. Otras se comercializan con marcas como BTA, Lowen, Omaha, KLD,
-Kommberg y muchos otros nombres, y no tengo idea si corresponden a importadores
-argentinos o no.
+locales como MBrezzo y Delbre. Desconozco si cada marca argentina "tunea" la
+herramienta de algún otro modo, quizás cada una le pone un motor diferente. Pero
+seguro que las adecuan a su marca pintándolas, les asignan un modelo en su linea
+de herramientas (códigos comenzando con MB para MBrezzo y con CC para Delbre),
+pero lo más importante es que garantizan la existencia de repuestos. Otras se
+comercializan con marcas como BTA (aparentemente armadas en Bell Ville,
+Córdoba), Lowen, Omaha, KLD, Reymu, Kommberg y muchos otros nombres, y no tengo
+idea dónde se ensamblan o si el importador en Argentina es rastreable (no
+encontré página web de estas marcas).
 
-Muchos en *Carpinteros Argentinos* tienen estas máquinas chinas y si bien
-algunos comentan sus problemas con ellas, en general parece que con un poco de
-dedicación, cuidado y puesta a punto, ofrecen buenos resultados (para ver qué
-tipo de ajustes requieren pueden ver este hilo del recomendable foro *Hecho Por
-Nosotros Mismos*: "`Busco manual para combinada 6 operaciones LOWEN`_)". En mi
-caso, no tengo idea sobre cómo realizaría ajustes de esta índole, supongo que
-sólo con la ayuda de alguien con más experiencia en cuestiones mecánicas.
+Funciones 
+---------
 
-.. _Busco manual para combinada 6 operaciones LOWEN: http://www.hechoxnosotrosmismos.net/foro/consultas/2043-busco-manual-para-combinada-6-operaciones-lowen.html
-
-No se si cada marca argentina "tunea" la herramienta de algún otro modo, quizás
-cada una le pone un motor diferente, por ejemplo. Las características de todas
-estas combinadas son muy semejantes entre sí. Yo creo que provienen de un modelo
-original de China que lleva el código MQ443, MQ443A o ML393 (`enlace a un portal
-chino con la ML393A`_), pueden mirar a ver qué les parece a ustedes en uno de
-los varios videos demostrativos de estas máquinas que hay en YouTube (los
-operarios que se ven en las imágenes están vestidos para vender alfombras persas
-y si siguen usando la máquina así es probable que al día de hoy tengan algunos
-dedos menos).
-
-.. _enlace a un portal chino con la ML393A: https://www.alibaba.com/product-detail/MQ443A-Universal-Carpenter-Machine_580048638.html
-
-.. youtube:: XUhlTUtZGyg
-            :height: 315
-            :width: 560
-
-Básicamente se pueden clasificar de acuerdo al tamaño de la cama (el ancho
-máximo de la garlopa y el cepillo) entre las de 20, 30 o 40 centímetros. Traen
-un motor de 1.5 a 3 HP. Además de garlopa y cepillo (funciones comentadas en mi
-post anterior, sobre `dimensionar y escuadrar madera`_), a partir del mismo eje
-giratorio donde están las cuchillas se consiguen las restantes funciones, por
-ejemplo de sierra circular (que es un peligro si gira mientras se utiliza la
-función de cepillo o de garlopa). Hay versiones que incorporan un carro que
-sirve de escuadrador, pero de muy pequeño tamaño.
+Básicamente este tipo de combinadas de carpintería de origen chino vienen con
+diferente ancho máximo en la cama de la garlopa y del cepillo. Hay de 20, 30 o
+40 centímetros, entre las medidas más habituales. Traen un motor de 1.5 a 3 HP.
+Además de garlopa y cepillo (funciones comentadas en mi post anterior, sobre
+`dimensionar y escuadrar madera`_), a partir del mismo eje giratorio donde están
+las cuchillas se consiguen las restantes funciones, por ejemplo de sierra
+circular. Vale aclarar que por la forma de construcción, en ninguna combinada el
+disco de la circular puede inclinarse, sólo puede hacer cortes verticales. Sí
+pueden incorporar en algunos casos un carro que sirve de escuadrador, pero de
+muy pequeño tamaño.
 
 .. _dimensionar y escuadrar madera: |filename|/2017-07-03-dimensionar-y-escuadrar.rst
 
 Las combinadas traen la posibilidad de usarlas como taladro horizontal mediante
-un mandril de 13 o 16 mm (también menciona la función de barreno, pero no se qué
+un mandril de 13 o 16 mm (también la función de barreno, pero no se qué
 diferencia tiene con el taladro), o ubicar fresas sobre el mismo eje y así
 convertir la máquina en un tupí o router horizontal (no sustituye la famosa
-"router table" o tupí estacionario tradicional, donde la fresa va ubicada
+"*router table*" o tupí estacionario tradicional, donde la fresa va ubicada
 verticalmente). También se promociona como una escopladora, es decir que
-supuestamente facilita el tallado de cajas (para hacer uniones de caja y espiga,
-tampoco entiendo cuál es la diferencia con el taladro y el barreno, salvo quizás
-el uso de mechas o fresas diferentes, y el dispositivo para fijar y mover con
-palancas la pieza de madera).
+facilitaría el tallado de cajas, para hacer uniones de caja y espiga (tampoco
+entiendo cuál es la diferencia con el taladro y el barreno, salvo quizás el uso
+de mechas o fresas diferentes, o quizás el dispositivo para fijar, y mover con
+palancas, la pieza de madera).
 
 El siguiente tutorial muestra algunos modos de utilización de una máquina
 parecida (`acá pueden ver sus características`_), con una tonada bien española.
@@ -174,11 +178,11 @@ operarla (aunque no usa protección auditiva, ni mascarilla respiratoria, pero a
 menos señala algunos cuidados para no rebajarse el número de manos o dedos). A
 mi criterio se equivoca al usar el carro escuadrador en simultaneo con la guía
 paralela. Esto es peligroso porque la madera puede terminar comprimida entre la
-guía y la hoja, y esto puede provocar un kick-back. Otro problema del video es
-que al mostrar la fresadora horizontal no explica qué superficie usa de guía,
-pero lo cuelgo igual porque ilustra unos cuantos usos. Quiero aclarar algo
-respecto al lenguaje: llama cepillo a lo que yo denomino garlopa, y regruesador
-a lo que en general nombro como cepillo.
+guía y la hoja, y así provocar un kick-back. Otro problema del video es que al
+mostrar la fresadora horizontal no explica qué superficie usa de guía, pero lo
+cuelgo igual porque ilustra unos cuantos usos. Quiero aclarar algo respecto al
+lenguaje: llama cepillo a lo que yo denomino garlopa, y regruesador a lo que en
+general nombro como cepillo.
 
 .. youtube:: _T6FqvIJucE
             :height: 315
@@ -186,20 +190,143 @@ a lo que en general nombro como cepillo.
 
 .. _acá pueden ver sus características: http://www.workpaal.com/maquinaria3_para_madera_y_hierro.asp?id=10&idp=49
 
-A continuación hay un listado de características, imágenes y precios. A partir
-de indagar en estas máquinas cambié de idea, y ahora creo que las combinadas son
-una buena opción para las funciones básicas que necesito. Por el precio de una
-cepilladora portatil Makita, la combinada suma la función de garlopa. Además, al
-ser un equipo pesado da la impresión de cierta robustez (obvio que una
-industrial es aún más robusta que estas chinitas, pero lo digo comparando con
-las portátiles), y una vez ajustado su funcionamiento y usándola bajo
-condiciones razonables tiene que funcionar bien.
+Modelos
+-------
 
-Si encuentran algún error, o quieren agregar algo, déjenme un comentario. O si
-alguien me puede decir qué ventaja real tiene la MB-300 respecto de la
-MB-300-STD (¿vale la pena pagar la diferencia de ARS 5.000 por la que tiene
-3 HP en vez de 2 HP?). ¡Nos vemos cuando me haya comprado alguna y filme un
-review!
+Las características de todas estas combinadas son muy semejantes entre sí. Los
+modelos originales provienen de China y se exportan a todo el mundo. Poseen un
+código para identificarlas y obtener información sobre sus prestaciones. Por
+ejemplo: ML393A, MQ443, etc. Creo que el último número indica el ancho máximo de
+cepillado (las 393 y 443 son de 300 mm, la ML534 es de 400 mm, la ML392 es de
+260 mm, ...).
+
+Pueden tratar de corroborar esta información viendo los videos demostrativos que
+hay en YouTube (los operarios que se ven en las imágenes están vestidos para
+vender alfombras persas y si siguen usando la máquina así es probable que al día
+de hoy no lleguen a diez cuando se ayuden a contar con los dedos de la mano:
+`MQ443A Universal Carpenter Machine`_). Tras mucho navegar la web llegué a la
+conclusión de que el sufijo A (por ejemplo ML393A) indica el agregado de un
+carro escuadrador, y el sufijo D (por ejemplo la MQ393D) tiene un embrague para
+permitir el uso separado de la sierra circular. Tengo dudas con el sufijo I (por
+ejemplo en la MQ393AI), que creo que indica la existencia de doble tornillo para
+el ajuste de la cepilladora (o *barras roscadas ascensoras* o *lifting screw
+rods*).
+
+.. _MQ443A Universal Carpenter Machine: https://www.alibaba.com/product-detail/MQ443A-Universal-Carpenter-Machine_580048638.html
+
+Pocas en el mercado argentino conservan el código de modelo original: vi una BTA
+*MQ431Z* (de 150 mm de ancho, les debo el significado de la zeta), de BTA y
+Reymu vi algunas con el modelo *MQ443*. Pero los fabricantes de las ensambladas
+en Córdoba dicen desconocer este código. De las MBrezzo yo creo que la
+MB-300-STD de 6 funciones es la *MQ443* (30 cm, un solo tornillo de ajuste, sin
+carro escuadrador, peso cercano), la MB-300 de 10 funciones es la *MQ393AI* (30
+cm, dos tornillos de ajuste, carro escuadrador, peso cercano), y la MB-400 de 6
+funciones es la *MQ444* (40 cm, tres tornillos de ajuste, sin carro
+escuadrador). Las Delbre son una incógnita para mi porque la información que se
+encuentra en su página oficial es dispar: una foto de la CC-300 la muestra con
+tres tornillos de ajuste y otra imagen de la misma máquina en el folleto indica
+solo dos de estos tornillos, con lo cual da la impresión de que mejor no valerse
+por las imágenes (le pregunté al vendedor pero nunca me respondió este aspecto).
+La pintura también difiere entre las dos fotos. La propaganda de MBrezzo dice
+que los dos tornillos de ajuste de la MB-300 de 10 funciones son de un "sistema
+único en el mercado", así que de la Delbre no podemos asegurar nada hasta que
+algún usuario nos informe (¡dejen un comentario!). Da un poco de bronca la
+reticencia de los fabricantes a reconocer el origen de estas máquinas y a
+brindar una hoja de características técnicas bien completa.
+
+Problemas y ajustes
+-------------------
+
+Muchos en *Carpinteros Argentinos* tienen estas máquinas chinas y si bien
+comentan sus problemas con ellas (salvo alguna aclaración en contrario, todos
+los testimonios provienen de este grupo), parece que con un poco de dedicación,
+cuidado y puesta a punto, ofrecen buenos resultados (para ver qué tipo de
+ajustes requieren pueden visitar estos hilos del recomendable foro *Hecho Por
+Nosotros Mismos*: "`Busco manual para combinada 6 operaciones LOWEN`_ y `Otro
+problema solucionado con la combinada`_). En mi caso, no tengo idea sobre cómo
+realizaría modificaciones de esta índole, supongo que sólo con la ayuda de
+alguien con más experiencia en cuestiones mecánicas.
+
+.. _Otro problema solucionado con la combinada: http://www.hechoxnosotrosmismos.net/foro/electrica/2058-otro-problema-solucionado-con-combinada.html
+
+.. _Busco manual para combinada 6 operaciones LOWEN: http://www.hechoxnosotrosmismos.net/foro/consultas/2043-busco-manual-para-combinada-6-operaciones-lowen.html
+
+Respecto de la calidad de las máquinas y la posibilidad de obtener buenos
+resultados. **Roberto R.** afirmó que el usuario debe ser respetuoso de la máquina
+en el sentido de renovar los rodamientos cuando haga falta, usar las
+cuchillas afiladas, realizar ajustes generales una vez por año, engrasarla, etc.
+
+Busqué mucho en la web sobre las caracerísticas técnicas de los modelos (y
+también traté de encontrar testimonios de usuarios, aunque sin éxito) acerca de
+los *lifting screw rods*, los tornillos de ajuste de la cepilladora. Como dije
+antes el modelo más común tiene un tornillo central, hay otra con dos, y otra
+con tres. **Julio B.** compró usada la MB-300 de 10 funciones y comentó que al
+cepillar una tabla de 20cm de ancho observó una diferencia de 0.5mm entre los
+lados. Al desarmarla pudo regular independientemente, con la ayuda de un calibre
+y mucha paciencia, cada uno de los dos tornillos de ajuste de la cepilladora,
+hasta lograr un resultado parejo. Nos debe la prueba de comparación entre los
+extremos longitudinales de la tabla.
+
+Una queja habitual es la escasa dimensión de la mesa para la sierra (y de la
+guía que trae), además de la dificultad para ajustar la altura y el ancho de
+corte. Es un peligro para el usuario que el disco gire mientras se utiliza la
+función de cepillo o de garlopa (salvo en los modelos que tienen el embrague,
+aunque no lo vi en los modelos disponibles en Argentina). Las protecciones que
+traen no parecen muy seguras. Mucha gente le arma un soporte más grande a la
+mesa de la circular. **Facundo Nicolás M.** decía sobre esto: "*me parece
+peligrosísimo el ajuste del disco de la sierra, trae dos tuercas pero le falta
+una arandela de presión*". Seguramente por esta causa alguien me comentó que la
+hoja de la sierra puede aflojarse al usar las funciones de cepilladora /
+garlopa, por lo que es recomendable sacar el disco de corte cuando no se usa.
+
+Respecto del modelo MB-300 de 10 funciones el mismo **Facundo** afirmó que el
+carro escuadrador tiene mucho juego del lado libre: "*se cae con el peso de la
+pieza de madera y pivotea sobre los rodamientos. Dicho todo esto, sigo
+considerando que es una buena opción para los que estamos laburando a nivel
+taller con aspiraciones a carpintería. Si sólo la vendieran como cepillo-garlopa
+a ese precio ya justificaría la inversión*". También comentó que lo tentó el
+agregado del afilador en su elección de esta combinada, pero descubrió que "*el
+juego que tiene la guía para las cuchillas del muñeco es desmesurado*". Y
+también dijo que "*las dos fresas que trae son espantosas: el filo mordido y
+descentrado (no guardan la misma distancia al eje), las vengo tratando de
+acomodar con el calibre y la amoladora de banco*". Y coincide en señalar que el
+punto flojo más importante se encuentra en los endebles elementos plásticos de
+protección sobre las cuchillas y el disco. A pesar de todo su balance es
+positivo: "*en lo que hace a sus funciones principales, me impresionó muy
+favorablemente la robustez de sus piezas, casi todas de fundición, con una
+precisión más que aceptable por tratarse de una máquina china de uso
+semi-profesional. Es cierto que demanda un buen tiempo de ajuste, y muchas veces
+de readaptación, pero definitivamente se pueden lograr buenos resultados*".
+
+El carpintero **Hector M.** tuvo problemas con las revoluciones por minuto del
+motor que le "*dejaban las tablas escalonadas*" y para solucionarlo cambió la
+polea que gobierna el giro del eje (agregado mio: en mi próximo post menciono
+algo sobre las máquinas con y sin alimentación automática de la cepilladora).
+Dijo también que los discos de sierra que trajo su BTA (china pero sólida) son
+de mala calidad, "*vienen de muestra nada mas*". Aconseja comprar discos de
+corte de buena calidad y lidiar con el eterno problema de enviar a agrandar el
+agujero central para que calce en el eje. También se quejaba de las guías que
+trae la máquina.
+
+.. youtube:: XUhlTUtZGyg
+            :height: 315
+            :width: 560
+
+Para finalizar este largo artículo incluyo un listado de características,
+imágenes y precios de algunas máquinas. Como expliqué, a partir de indagar en
+ellas pude cambiar de opinión, y ahora creo que las combinadas son una buena
+opción para las funciones básicas que necesito. Por el precio de una cepilladora
+portatil Makita, la combinada suma la función de garlopa. Además, al ser un
+equipo pesado da la impresión de cierta robustez (obvio que una industrial es
+aún más robusta que estas chinitas, pero lo digo comparando con las portátiles),
+y una vez ajustado su funcionamiento y usándola bajo condiciones razonables
+tiene que funcionar bien.
+
+Si encuentran algún error, o quieren agregar algo, déjenme un comentario. O
+también me pueden comentar si la MB-300 tiene alguna ventaja real respecto de la
+MB-300-STD (¿vale la pena pagar la diferencia de ARS 5.000 por la que tiene 3 HP
+en vez de 2 HP, y dos tornillos de ajuste en vez de uno?). ¡Nos vemos cuando me
+haya comprado alguna y filme un review!
 
 -----
 
@@ -414,6 +541,7 @@ acuerdo a lo que yo entiendo*.
 
   - Motor monofasico de 3 hp.
   - Peso total: **270 kg**
+  - dimensiones armada: 1.30 x 1.10 x 1.10 m 
 
 - Precio en ML: `ARS 28.263`_
 
@@ -463,7 +591,7 @@ productos de Delbre`_).
   - Peso total: **310 kg**
   - Medidas de la máquina montada: 1.20 x 0.90 x 0.94 m
 
-- Precio en ML: `ARS 27.100`_
+- Precio: ARS 24.500 de contado, `ARS 27.100`_ (en ML)
 
 .. _ARS 27.100: https://articulo.mercadolibre.com.ar/MLA-661386709-maquina-combinada-6-func-c-motor-3hp-380v-220vdelbre-cc-300-_JM
 
@@ -530,8 +658,10 @@ productos de Delbre`_).
   - peso total: **345 kg**
   - embalaje: 1.60 x 1.10 x 0.88 m
 
-- Precio en ML: no disponible. 
-  
+- Precio en ML: `ARS 41.371`_
+
+.. _ARS 41.371: https://articulo.mercadolibre.com.ar/MLA-618049128-maquina-combinada-de-carpinteria-de-6-funciones-de-400-mm-_JM
+
 -----
 
 **Delbre CC 400**. *Me llama la atención la diferencia de peso* (`página
