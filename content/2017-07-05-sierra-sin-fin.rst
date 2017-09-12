@@ -17,14 +17,15 @@ cualquier cosa). Para algunos cortes esta sierra (también llamada sierra de
 banda) tiene algunas ventajas sobre la circular de banco, y además permite
 realizar cortes a mano alzada (es decir, realizar curvas). Obviamente no son
 todas ventajas, pero cuando escriba sobre la sierra de banco las mencionaré. La
-sin fin puede cortar piezas de mayor altura (de acuerdo al tamaño que tenga la
-máquina, pero en general la circular no llega a cortar más allá del radio del
-disco, unos 10 a 12 cm). La circular es más problemática desde el punto de vista
-de la seguridad, porque puede provocar kick-backs, es decir que la madera que
-está cortando puede salir volando hacia atrás en dirección al cuerpo del usuario
-(por lo cual conviene pararse ligeramente hacia el costado izquierdo para no
-quedar alineado con la madera y la hoja de la sierra, que es la dirección en la
-que saldría volando la pieza).
+sin fin puede cortar piezas de mayor altura. La altura del corte en una sierra
+circular está limitada por el diámetro del disco, por ejemplo la DeWalt DW745
+utiliza discos de 10" = 254 mm y tiene una altura de corte máximo de 79 mm (unas
+3"). La circular es más problemática desde el punto de vista de la seguridad,
+porque puede provocar kick-backs, es decir que la madera que está cortando puede
+salir volando hacia atrás en dirección al cuerpo del usuario (por lo cual
+conviene pararse ligeramente hacia el costado izquierdo para no quedar alineado
+con la madera y la hoja de la sierra, que es la dirección en la que saldría
+volando la pieza).
 
 .. figure:: https://c1.staticflickr.com/5/4285/34960302953_5ed0bf62de_o.png
    :scale: 100%

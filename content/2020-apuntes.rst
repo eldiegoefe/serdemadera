@@ -130,3 +130,27 @@ serduckduckgo.com/?q=ser&t=opera&ia=web
 pantalla velador
 papel vegetal
 https://articulo.mercadolibre.com.ar/MLA-625697103-papel-vegetal-translucido-a4-x-20-hojas-90g-_JM
+
+
+Recomendaciones de maderas para hacer sillas:
+- semiduras - guatambu, petiribi, soita
+- o directamente maderas duras
+
+laurel, guindo. Álamo,
+Cerezo un color increible.no es muy dura...Roble es bastante dura .poros finos
+estilo campo o exotico la teca es re dura y fuerte fibra cerrada...para mi
+lo mas es fino es la caoba ..o
+
+en donde yo compro madera (capital federal) todas las maderas (eceptuando pino y
+saligna) valen entre 37 y 105 pesos mas iva el pie, logicamente los precios
+varian entre provincia y provincia, logicamente en donde haya madera nativa
+seguramente sera mas barato.
+
+kreg en argentina
+http://www.juvenalmaderas.com.ar
+
+marcas recomendadas (mechas copa)
+makita, dewalt, bremen
+las marcas todos los productos son de china si podes compra lenox lo mejor de todos
+Lenox o Stronger. Las Bosch tambien anda de 10.
+Rhein bimetalicas, sirven para madera y para hierro y se venden de a una

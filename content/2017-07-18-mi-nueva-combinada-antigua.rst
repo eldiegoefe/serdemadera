@@ -78,7 +78,10 @@ En cuanto a la máquina de las fotos, tiene garlopa y cepilladora de 300 mm, con
 barreno y sierra circular, motor monofásico, pesa unos 140 kg, tamaño de 1.58 x
 1.28 x 1.00 (todo en metros), ARS 25.000. Pesa poco comparado con las MBrezzo y
 Delbre, lo cual me sorprende, pero debe ser que ésta es de hierro ángulo y las
-ensambladas de origen chino son de fundición de hierro. 
+ensambladas de origen chino son de fundición de hierro. (Agregado posterior:
+esta máquina fue la que terminé comprando. Cuando la tuvimos que bajar de la
+camioneta fue más que obvio que pesaba mucho más de 140 kg. Según el fletero, la
+Saveiro estaba excedida con esta carga, que es de unos 600 kg).
 
 .. figure:: https://c1.staticflickr.com/5/4324/35158433213_73df14f803_o.jpg
    :scale: 100%
@@ -118,7 +121,15 @@ monofásico. El aviso dice que es garlopa, cepilladora, barreno, circular y tup�
 (fresadora) horizontal. Después de observarla bastante advertí una diferencia
 con las otras, ya que del motor sale una sola polea hacia el eje de las
 cuchillas. Me da la impresión de que carece del mecanismo de alimentación para
-la cepilladora, y por ende hay que empujar la madera para lograr que cepille.
+la cepilladora, y por ende hay que empujar la madera para lograr que cepille
+(agregado posterior: tengo varios comentarios que agregar, porque estoy
+aprendiendo mucho durante la restauración de la máquina que compré, pero
+mientras tanto corrijo mi impresión sobre esta "verdecita": en la foto se ve el
+piñón -pintado de verde, junto al eje- que está adosado al rodillo de
+alimentación automático, y como decía en mi observación original falta la polea,
+pero además está ausente la caja de engranajes con la cual se conecta a través
+de una cadena que también falta, con lo cual la máquina está incompleta, pero
+originalmente sí poseía el mecanismo de alimentación automático).
 
 .. figure:: https://c1.staticflickr.com/5/4327/35159388203_82e2e7c2db_o.jpg
    :scale: 100%
@@ -128,7 +139,7 @@ la cepilladora, y por ende hay que empujar la madera para lograr que cepille.
    :target: https://c1.staticflickr.com/5/4327/35159388203_82e2e7c2db_o.jpg
  
 
-.. figure:: https://c1.staticflickr.com/5/4325/35798599202_550472764a_o.jpg
+.. figure:: https://c1.staticflickr.com/5/4325p/35798599202_550472764a_o.jpg
    :scale: 100%
    :width: 50%
    :align: center
