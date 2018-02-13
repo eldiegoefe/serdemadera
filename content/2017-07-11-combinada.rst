@@ -214,6 +214,13 @@ rods*).
 
 .. _MQ443A Universal Carpenter Machine: https://www.alibaba.com/product-detail/MQ443A-Universal-Carpenter-Machine_580048638.html
 
+.. figure:: https://c1.staticflickr.com/5/4561/38766353281_084cf91b48_o.jpg
+   :scale: 100%
+   :width: 100%
+   :align: center
+   :alt: modelos chinos
+   :target: https://c1.staticflickr.com/5/4561/38766353281_084cf91b48_o.jpg
+
 Pocas en el mercado argentino conservan el código de modelo original: vi una BTA
 *MQ431Z* (de 150 mm de ancho, les debo el significado de la zeta), de BTA y
 Reymu vi algunas con el modelo *MQ443*. Pero los fabricantes de las ensambladas

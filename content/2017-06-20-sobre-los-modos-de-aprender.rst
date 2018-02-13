@@ -28,6 +28,10 @@ encontré navegando la web.
 .. _Hernán Costa: https://www.facebook.com/HerramientasHernanCosta
 .. _entrevista a Tom Fidgen y Justin Starr: https://www.youtube.com/watch?v=e04kOJNhMQI
 
+.. youtube:: 6jXWSTfyT04
+            :height: 315
+            :width: 560
+
 Un curso intensivo de una a dos semanas (entre 5 y 10 días hábiles con jornadas
 de estudio de 4 u 8 horas) sale entre ARS 4500 y 12000 (USD 280 y 750). Las
 clases pueden ser grupales o individuales, con contenidos y fecha
