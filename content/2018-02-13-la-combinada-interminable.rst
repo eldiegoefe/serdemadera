@@ -15,17 +15,17 @@ me había ganado el hastío y la frustración porque la reparación venía en c�
 lenta debido a un desfile de problemas que voy a comentar.
 
 A principios de septiembre había terminado de pintar la estructura, con una
-combinación de colores que mi amigo el Gabi considera horroroso. Llevé el eje
-(en esta zona del mundo, por algún motivo que desconozco, a esta pieza rotativa
-le llaman "el muñeco") a `AFIPAR`_, un negocio donde afilan cuchillas y venden
-máquinas de carpintería. Ya había ido en la época en que andaba averiguando para
-decidir si compraba una combinada antigua o no, y me habían atendido bien. Allí
-me recomendaron que lleve el muñeco a una tornería para cambiarle las poleas. El
-aluminio del cual estaban hechas se veía gastadísimo, me recomendaron que las
-cambie por unas de hierro. De paso podrían aflojarle el mandril del taladro
-horizontal que estaba sujeto de algún modo a la punta (¿a presión?) y también
-revisar los rulemanes (también conocidos en otras latitudes como bolilleros,
-ball bearings, cojinetes, etc).
+combinación de colores que el Gabi considera un horror, en particular por el
+anaranjado. Llevé el eje (en esta zona del mundo, por algún motivo que
+desconozco, a esta pieza rotativa le llaman "el muñeco") a `AFIPAR`_, un negocio
+donde afilan cuchillas y venden máquinas de carpintería. Ya había ido en la
+época en que andaba averiguando para decidir si compraba una combinada antigua o
+no, y me habían atendido bien. Allí me recomendaron que lleve el muñeco a una
+tornería para cambiarle las poleas. El aluminio del cual estaban hechas se veía
+gastadísimo, me recomendaron que las cambie por unas de hierro. De paso podrían
+aflojarle el mandril del taladro horizontal que estaba sujeto de algún modo a la
+punta (¿a presión?) y también revisar los rulemanes (también conocidos en otras
+latitudes como bolilleros, ball bearings, cojinetes, etc).
 
 .. _AFIPAR: http://www.afiparsh.com
 
@@ -94,12 +94,40 @@ Gregorio Marino del canal Haciendo Viruta:
             :height: 315
             :width: 560
 
+Esto le pregunté:
+
+   Diego Efe: Hola Gregorio, muchas gracias por el video. Tengo esta pregunta: cómo
+   me aseguro de que la cuchilla queda bien fija y no se va a aflojar con el
+   funcionamiento? Hay algún modo de saber si los tornillos que la sujetan están
+   haciendo fuerza suficiente?﻿
+
+   Hagamos Viruta: los tornillos ajustan al revez o sea cuando aflojas se ajustan
+   una vez firmes es dificil que se salga una cuchilla mientras anda por que la
+   velocidad la empuja para adentro , yo nunca vi salirse una cuchilla , y espero
+   no verlo jamas jajja un abrazo﻿.
+
+
 Y gracias a Miguel del canal Artesanía Almería design:
 
 .. youtube:: GvY0ACrwed0
              :height: 315
              :width: 560
-   
+
+Acá la pregunta y su respuesta:
+
+   Diego Efe: Muy útil el video, muchas gracias Miguel. Te quería preguntar si
+   conocés alguna forma de asegurar que la cuchilla no se va a aflojar durante el
+   uso, cómo puedo saber si los tornillos de sujección están ejerciendo suficiente
+   presión? No se qué tanto ajustarlos... Saludos desde Argentina!﻿
+
+   Artesania Almeria design: Gracias por tu comentario, los tornillos hay que
+   apretarlos bien, pero sin exageraciones, ya que podrías pasar la rosca y para
+   sacarlos es un problema, es muy dificil que una cuchilla pueda escaparse, ya que
+   si te fijas, donde encaja la cuchilla no es recto sino en forma de cuña, con lo
+   que dejando los tornillos con un poco de presión ya es imposible que se escapen
+   las cuchillas, de todos modos, en esa máquina toda la precaución y atención
+   puestas en las manos, espero haberte servido de ayuda, saludos.﻿
+  
 Tratando de deducir qué sucedió llegué a esta conclusión. Meses antes yo había
 estado tratando de calibrar la altura de las cuchillas, y parece que dejé todo a
 medias. Cuando me puse a probar la máquina no volví a chequear el ajuste de los
